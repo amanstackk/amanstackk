@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-██████╗ ██╗   ██╗██╗██╗     ██████╗     ██╗███╗   ██╗ ██████╗
-██╔══██╗██║   ██║██║██║     ██╔══██╗    ██║████╗  ██║██╔════╝
-██████╔╝██║   ██║██║██║     ██║  ██║    ██║██╔██╗ ██║██║  ███╗
-██╔══██╗██║   ██║██║██║     ██║  ██║    ██║██║╚██╗██║██║   ██║
-██████╔╝╚██████╔╝██║███████╗██████╔╝    ██║██║ ╚████║╚██████╔╝
-╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝     ╚═╝╚═╝  ╚═══╝ ╚═════╝
+█████╗ ███╗   ███╗ █████╗ ███╗   ██╗
+██╔══██╗████╗ ████║██╔══██╗████╗  ██║
+███████║██╔████╔██║███████║██╔██╗ ██║
+██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║
+██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
 ### `< turning logic into code, and code into intelligence />`
@@ -22,13 +22,13 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name        = "Your Name"           # 👈 change this
-        self.aka         = "your_github_handle"  # 👈 change this
-        self.based_in    = "India 🇮🇳"
-        self.languages   = ["C++", "Python"]
-        self.learning    = ["Node.js", "Express", "Machine Learning"]
+        self.name          = "Aman Shrivastava"
+        self.aka           = "amanstackk"
+        self.based_in      = "India 🇮🇳"
+        self.languages     = ["C++", "Python"]
+        self.learning      = ["Node.js", "Express", "Machine Learning"]
         self.obsessed_with = ["DSA", "Algorithms", "AI/ML"]
-        self.goal        = "Build things that think."
+        self.goal          = "Build things that think."
 
     def current_status(self):
         return "🔨 Building backends by day. 🤖 Training models by night."
@@ -67,27 +67,19 @@ class Developer:
 
 > *"Code is not just syntax — it's a solution."*
 
-### 🔷 Project One — `project-name`
-> **[SHORT PUNCHY DESCRIPTION — what does it do and why it's cool]**
-- 🧠 Built with: `C++` / `Python`
-- ⚡ Key feature: [e.g., solves X in O(log n) / achieves Y accuracy]
-- 🔗 [View Repo](#) · [Live Demo](#)
+### 🔷 noRog — AI Health Intelligence System
+> **Predict diseases before they strike. Get prevention plans & a smart health guide — all in one.**
+- 🧠 Built with: `Python` · `scikit-learn` · `Pandas`
+- ⚡ Key feature: ML-powered disease prediction + personalised health recommendations
+- 🔗 [View Repo](https://github.com/amanstackk/noRog)
 
 ---
 
-### 🔷 Project Two — `project-name`
-> **[SHORT PUNCHY DESCRIPTION]**
-- 🧠 Built with: `Node.js` / `Express` / `Python`
-- ⚡ Key feature: [e.g., REST API with JWT auth / ML model served via endpoint]
-- 🔗 [View Repo](#) · [Live Demo](#)
-
----
-
-### 🔷 Project Three — `project-name`
-> **[SHORT PUNCHY DESCRIPTION]**
-- 🧠 Built with: `Python` · `scikit-learn` / `NumPy`
-- ⚡ Key feature: [e.g., trained on X dataset / real-time predictions]
-- 🔗 [View Repo](#)
+### 🔷 DSA Vault — Algorithm Solutions Archive
+> **A curated collection of DSA problems solved in C++ & Python — clean, fast, and well-commented.**
+- 🧠 Built with: `C++` · `Python`
+- ⚡ Key feature: Covers Arrays, Trees, Graphs, DP, Greedy & more
+- 🔗 [View Repo](https://github.com/amanstackk)
 
 ---
 
@@ -95,11 +87,11 @@ class Developer:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&icon_color=00FFB2&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanstackk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&icon_color=00FFB2&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanstackk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=FFFFFF)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFB2&ring=00FFB2&fire=FF6B35&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888)
+![Streak](https://streak-stats.demolab.com?user=amanstackk&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFB2&ring=00FFB2&fire=FF6B35&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888)
 
 </div>
 
@@ -108,9 +100,7 @@ class Developer:
 ## 🧠 DSA GRIND
 
 ```
-📍 LeetCode   →  [your_handle]   |  🔥 Streak: X days
-📍 Codeforces →  [your_handle]   |  ⭐ Rating: XXXX
-📍 CodeChef   →  [your_handle]   |  🌟 Stars: X
+📍 LeetCode  →  amancodes-  |  🔥 Keep grinding!
 ```
 > *"Every hard problem solved is a smarter brain unlocked."*
 
@@ -120,9 +110,9 @@ class Developer:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-shrivastava-ba54b2381/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/amancodes-)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.workspace05@gmail.com)
 
 </div>
 
@@ -134,6 +124,6 @@ class Developer:
 [ CURRENTLY LOADING: AI/ML ENGINEER MODE... ██████████░░ 83% ]
 ```
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00FFB2&label=PROFILE+VIEWS)
+![Visitor Badge](https://komarev.com/ghpvc/?username=amanstackk&style=for-the-badge&color=00FFB2&label=PROFILE+VIEWS)
 
 </div>
