@@ -97,15 +97,6 @@ class Developer:
 
 ---
 
-## 🧠 DSA GRIND
-
-```
-📍 LeetCode  →  amancodes-  |  🔥 Keep grinding!
-```
-> *"Every hard problem solved is a smarter brain unlocked."*
-
----
-
 ## 📡 CONNECT
 
 <div align="center">
